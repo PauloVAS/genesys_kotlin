@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeneSys</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_nome">Nome</string>
+    <string name="prompt_endereco">Endereço</string>
+    <string name="prompt_numero">Número</string>
+    <string name="prompt_cep">CEP</string>
+    <string name="prompt_complemento">Complemento</string>
+    <string name="action_cadastrar">Cadastrar</string>
+    <string name="action_cadastre">Cadastre-se</string>
+    <string name="action_logar">Logar</string>
+    <string name="nassau">Uninassau</string>
+</resources>
